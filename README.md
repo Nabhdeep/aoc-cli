@@ -114,3 +114,7 @@ Feel free to explore the codebase and contribute!
 - Add support for multiple languages beyond Go.
 
 - Enhanced error handling and debugging features.
+
+- Submitting day's solution
+
+- 
