@@ -116,5 +116,3 @@ Feel free to explore the codebase and contribute!
 - Enhanced error handling and debugging features.
 
 - Submitting day's solution
-
-- 
